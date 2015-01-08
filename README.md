@@ -6,4 +6,4 @@ This repository is for my module AAD115
 
 [Personal Page](http://mrzackrox.github.io/personal_page/zack_reid.html)
 
-[Essay]-(http://mrzackrox.github.io/Jessica-Hische/Jessica.html)
+[Essay](http://mrzackrox.github.io/Jessica-Hische/Jessica.html)
